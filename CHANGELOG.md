@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.20.1 (2026-02-11)
+
+Full Changelog: [v2.20.0...v2.20.1](https://github.com/openai/openai-python/compare/v2.20.0...v2.20.1)
+
+### Documentation
+
+* update comment ([63def23](https://github.com/openai/openai-python/commit/63def23b7acd5c6dacf03337fe1bd08439d1dba8))
+
 ## 2.20.0 (2026-02-10)
 
 Full Changelog: [v2.19.0...v2.20.0](https://github.com/openai/openai-python/compare/v2.19.0...v2.20.0)
